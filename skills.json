@@ -1,0 +1,28 @@
+{ 
+	"Skills": 
+	          {"SoftSkills": ["Information search",
+			          "Communication"]
+		  },
+		  {"HardSkills": ["SDLC",
+			          "STLC",
+				  "Requests HTTP",
+				  "Response codes HTTP",
+				  "Json",
+				  "XML",
+				  "Postman autotest API",
+				  "Postman JS",
+				  "Charles and Fiddler",
+				  "DevTools",
+				  "VPN",
+				  "Android Studio",
+				  "ADB",
+				  "Features of mobile testing",
+				  "Terminal linux",
+				  "SQL",
+				  "Postgres",
+				  "Redis",
+				  "Jmeter",
+				  "Scrum",
+				  "Python"]
+		  }
+}		  			         

@@ -1,11 +1,12 @@
-[ "Sex": "Man",
-  "Name": "Aleksandr",
-  "Surname": "Krivenkiy",
-  "Middle name": "Mecheslavovich",
-  "Age": 32,
-  "Pet": ["Type":"cat",
-	  "Quantity": 1],
-	 ["Type": "Dog",
-          "Quantity": 1],
-  "Salary": "Очень очень много, у Вас столько нет"
-]
+{
+	"Sex": "Man",
+        "Name": "Aleksandr",
+        "Surname": "Krivenkiy",
+        "Middle name": "Mecheslavovich",
+        "Age": 32,
+        "Pet": ["Type":"cat",
+	        "Quantity": 1],
+	       ["Type": "Dog",
+                "Quantity": 1],
+        "Salary": "1500$"
+}
