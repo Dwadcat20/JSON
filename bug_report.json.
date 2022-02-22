@@ -2,7 +2,7 @@
    "Summary": "Broken link to Facebook",
    "StepToReproduce": ["Step1": "Open app" 
                        "Step2": "Tap to link Facebook"
-                        ],
+                      ],
    "ActualResult": "The Facebook page opened",
    "ExpectedResult": "Error 404 returned",
    "Priority": "Minor"
