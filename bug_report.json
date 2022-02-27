@@ -4,6 +4,7 @@
                        "Step2": "Tap to link Facebook"},
    "ActualResult": "The Facebook page opened",
    "ExpectedResult": "Error 404 returned",
-   "Priority": "Minor"
+   "Priority": "Minor",
+   "Severity": "Minor"
 }
    
