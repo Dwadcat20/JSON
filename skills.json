@@ -1,9 +1,8 @@
 { 
 	"Skills": 
 	          {"SoftSkills": ["Information search",
-			          "Communication"]
-		  },
-		  {"HardSkills": ["SDLC",
+			          "Communication"],
+		   "HardSkills": ["SDLC",
 			          "STLC",
 				  "Requests HTTP",
 				  "Response codes HTTP",
