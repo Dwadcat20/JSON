@@ -2,11 +2,11 @@
 	"Sex": "Man",
         "Name": "Aleksandr",
         "Surname": "Krivenkiy",
-        "Middle name": "Mecheslavovich",
+        "Middle_name": "Mecheslavovich",
         "Age": 32,
-        "Pet": ["Type":"cat",
-	        "Quantity": 1],
-	       ["Type": "Dog",
-                "Quantity": 1],
+        "Pet": {"Type_one":"cat",
+	        "Quantity_cat": 1,
+	        "Type_two": "Dog",
+                "Quantity_dog": 1},
         "Salary": "1500$"
 }
