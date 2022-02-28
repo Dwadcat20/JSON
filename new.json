@@ -4,9 +4,9 @@
         "Surname": "Krivenkiy",
         "Middle_name": "Mecheslavovich",
         "Age": 32,
-        "Pet": {"Type_one":"cat",
+        "Pet": {"Type":"cat",
 	        "Quantity_cat": 1,
-	        "Type_two": "Dog",
+	        "Type_one": "Dog",
                 "Quantity_dog": 1},
         "Salary": "1500$"
 }
